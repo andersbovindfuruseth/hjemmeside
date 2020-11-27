@@ -1,0 +1,63 @@
+body {
+  background-color: #173F5F
+}
+
+h1 {
+  text-align: center;
+  color: grey;
+}
+
+h2 {
+  text-align: center;
+  color: grey;
+}
+
+ul {
+  text-align: center;
+  color: grey;
+}
+
+
+ol {
+  text-align: center;
+
+  color: grey;
+}
+
+a {
+  text-align: center;
+  align: center
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+
+
+p {
+  text-align: center;
+  color: grey;
+}
+
+.Tittel {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 50px;
+}
+
+.sitat {
+margin-top: 30px;
+font-style: italic;
+
+}
+
+.bilde {
+  width: 200px;
+  border-radius: 40%;
+  border-color:grey;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
